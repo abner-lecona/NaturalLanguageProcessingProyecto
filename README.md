@@ -95,5 +95,5 @@ Proyecto desarrollado como parte del curso de Ingeniería en Sistemas.
 
 ---
 
-¡Gracias por visitar el proyecto! ⭐ Si te parece útil, no dudes en darle una estrella al repositorio.
+¡Gracias por visitar el proyecto! 
 
