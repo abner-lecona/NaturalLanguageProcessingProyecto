@@ -1,0 +1,42 @@
+Lista de Enfermedades:
+1. Gripe común
+2. Diabetes tipo 2
+3. Hipertensión arterial
+4. Asma
+5. Alergias estacionales
+6. Insuficiencia renal crónica
+7. COVID-19
+8. Anemia ferropénica
+
+---
+
+Lista de Medicamentos:
+- **Paracetamol**: 500 mg, 1 cada 8 horas.
+- **Ibuprofeno**: 200 mg, 1 cada 6-8 horas.
+- **Metformina**: 850 mg, 1 cada 12 horas.
+- **Losartán**: 50 mg, 1 cada 24 horas.
+- **Salbutamol**: Inhalador, 2 inhalaciones cada 4 horas.
+- **Furosemida**: 40 mg, 1 cada 12 horas.
+- **Insulina glargina**: Dosis ajustada por peso, 1 vez al día.
+
+---
+
+Ejemplos de Diagnósticos y Tratamientos:
+1. **Gripe común**: 
+   - Tratamiento: Reposo, hidratación y paracetamol.
+2. **Diabetes tipo 2**:
+   - Tratamiento: Metformina, dieta controlada en carbohidratos.
+3. **Hipertensión arterial**:
+   - Tratamiento: Losartán, reducción de sodio en la dieta.
+4. **COVID-19** (leve):
+   - Tratamiento: Aislamiento, analgésicos como paracetamol.
+5. **Anemia ferropénica**:
+   - Tratamiento: Suplementos de hierro (ej., sulfato ferroso).
+
+---
+
+Sintomatología y Diagnósticos Relacionados:
+- **Dolor de cabeza**: Gripe, migraña, hipertensión.
+- **Fiebre**: Infección viral, bacteriana, COVID-19.
+- **Fatiga**: Anemia, diabetes, estrés crónico.
+- **Tos**: Asma, infección respiratoria, alergias.
